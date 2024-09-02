@@ -1,0 +1,62 @@
+body {
+    background-color: #141a3d;
+    color: aliceblue;
+    font-family: "Cormorant Garamond", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #003ea1;
+    border: solid #001638 2px;
+    color: whitesmoke;
+    font-family: "Cormorant Garamond", serif;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
+
+main {
+    text-align: center;
+    max-width: 85%;
+}
+
+#inicio {
+    max-width: 75%;
+}
+
+#irmaos {
+    width: 300px;
+}
+
+#diadema {
+    width: 400px;
+}
+
+#aeroporto {
+    width: 400px;
+}
+
+#triste {
+    width: 400px;
+}
+
+#emocionado {
+    width: 400px;
+}
+
+#morri {
+    width: 400px;
+}
+
+#shopping {
+    width: 500px;
+}
